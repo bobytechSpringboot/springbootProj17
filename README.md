@@ -287,6 +287,7 @@ listAllEmployees ()方法：以表格形式列出公司所有成员
 getTeam()方法：显示团队成员列表操作
 addMember ()方法：实现添加成员操作
 deleteMember ()方法：实现删除成员操作
+deleteMember ()方法：实现删除成员操作
   
 
 
