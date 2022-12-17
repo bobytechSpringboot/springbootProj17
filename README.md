@@ -3,7 +3,7 @@
 
 开发团队人员调度软件
 ==
-这是一个假象练习项目。 摘录于Gitbub 公开项目：
+这是一个假象练习项目。 原始版本摘录于Gitbub 公开项目：
 https://github.com/Wj-00991314/Atguigu-Java.git
 
 
