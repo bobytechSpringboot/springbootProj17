@@ -7,6 +7,7 @@
 https://github.com/Wj-00991314/Atguigu-Java.git
 
 
+
 # 目标
 * 模拟实现一个基于文本界面的《开发团队调度软件》
 * 熟悉Java面向对象的高级特性，进一步掌握编程技巧和调试技巧
@@ -293,7 +294,7 @@ listAllEmployees ()方法：以表格形式列出公司所有成员
 getTeam()方法：显示团队成员列表操作
 addMember ()方法：实现添加成员操作
 deleteMember ()方法：实现删除成员操作
-deleteMember ()方法：实现删除成员操作
+deleteMember ()方法：
   
 
 
